@@ -5,7 +5,6 @@
 
 <div align="center">
   
-  [![Visitors](https://api.visitorbadge.io/api/visitors?path=jhaabhijeet864&label=Profile%20Views&labelColor=%23000000&countColor=%2337a5c7)](https://visitorbadge.io/status?path=jhaabhijeet864)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhijeetcreates/)
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:jhaabhijeet864@gmail.com)
   [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--7391--6631-green?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0004-7391-6631)
@@ -44,9 +43,6 @@ I enjoy transforming complex AI concepts into accessible tools and applications 
   ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
   ![Scikit Learn](https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
-  ![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
   ![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white)
 
