@@ -16,12 +16,10 @@
 
 I'm a **passionate AI & Machine Learning Engineer** with expertise in LLM systems and a strong focus on creating practical AI solutions that solve real-world problems.
 
-- 🔭 Currently working as **Microsoft-AICTE Intern** developing cutting-edge AI applications
-- 🌱 Working as **LLM Trainer** at **[@OutlierAI](https://github.com/OutlierAI)** to create more efficient language models
-- 🤝 Active **Contributor @SSOC** helping build open-source AI communities
-- 💼 Available for **Freelance AI Training** and consulting projects
-- 🎓 Background in Computer Science with specialization in Machine Learning and AI
-- 🔍 Research interests include: Object Detection, Natural Language Processing, and AI Ethics
+- 🌱 Working as **Data Scientist** at **[@OutlierAI](https://github.com/OutlierAI)** to create more efficient language models
+- 💼 Available for **Software Engineering and Machine Learning Internships"* and consulting projects
+- 🎓 Background in Computer Science with specialization in AI and Machine Learning, and Data Science and Applications
+- 🔍 Research interests include: AI Based Voice Interpreation, OCR and Natural Language Processing.
 
 I enjoy transforming complex AI concepts into accessible tools and applications that enhance user experiences and automate processes. My goal is to make AI technology more accessible and beneficial for everyday use.
 
@@ -88,24 +86,6 @@ I enjoy transforming complex AI concepts into accessible tools and applications 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhaabhijeet864&theme=tokyonight" alt="Contribution Graph" />
 </p>
 
-## 🤝 Let's Connect
-
-I'm always open to collaborating on projects and innovative ideas in the AI space!
-
-<p align="center">
-  <a href="mailto:jhaabhijeet864@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jhaabhijeet864%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/abhijeetcreates/">
-    <img src="https://img.shields.io/badge/LinkedIn-abhijeetcreates-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://orcid.org/0009-0004-7391-6631">
-    <img src="https://img.shields.io/badge/ORCID-0009--0004--7391--6631-green?style=for-the-badge&logo=orcid" alt="ORCID" />
-  </a>
-  <a href="https://instagram.com/abhijeetcreates">
-    <img src="https://img.shields.io/badge/Instagram-abhijeetcreates-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
-  </a>
-</p>
 
 ---
 
