@@ -13,17 +13,6 @@
   
 </div>
 
-
-## 📋 Table of Contents
-- [About Me](#-about-me)
-- [Tech Stack & Tools](#-tech-stack--tools)
-- [Current Projects](#-current-projects)
-- [Achievements & Experience](#-achievements--experience)
-- [GitHub Stats](#-github-stats)
-- [Top Languages](#-top-languages)
-- [Let's Connect](#-lets-connect)
-
-
 ## 🧠 About Me
 
 I'm a **passionate AI & Machine Learning Engineer** with expertise in LLM systems and a strong focus on creating practical AI solutions that solve real-world problems.
@@ -79,20 +68,6 @@ I enjoy transforming complex AI concepts into accessible tools and applications 
   ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 </div>
-
-## 🚀 Current Projects
-
-### [Pyarometer](https://github.com/jhaabhijeet864/pyarometer)
-Love compatibility predictor combining Python, Flask, and MongoDB.
-- ❤️ Calculate love compatibility between two names
-- 🔮 Combines the magic of Python, Flask, and MongoDB
-- 🧪 Technologies: Python, Flask, MongoDB
-
-### [Project-Zenith](https://github.com/jhaabhijeet864/Project-Zenith)
-AI-powered startup success predictor.
-- 📈 Predicts startup success for founders and investors
-- 💡 Uses machine learning to analyze business factors
-- 🧪 Technologies: TypeScript, TensorFlow.js
 
 <div align="center">
   <h2 id="-achievements--experience">🏆 Achievements & Experience</h2>
