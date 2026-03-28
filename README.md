@@ -17,8 +17,8 @@
 
 I'm a **passionate AI & Machine Learning Engineer** with expertise in LLM systems and a strong focus on creating practical AI solutions that solve real-world problems.
 
-- 🌱 Working as a **Data Scientist** at **[@OutlierAI-Scale AI](https://github.com/OutlierAI)** to create more efficient language models.
-- 💼 Co Founder and Chief AIML Engineer @Pathixo Pvt. Ltd.
+- 🌱 Working as a **Data Scientist** at **[@OutlierAI-Scale AI](https://outlier.ai/)** to create more efficient language models.
+- 💼 Co Founder and Chief AIML Engineer **[@Pathixo Pvt. Ltd](https://www.pathixo.com/)**.
 - 🎓 Background in Computer Science with specialization in AI, Machine Learning, and Data Science.
 - 🔍 Research interests include: Agentic Ecosystems, System Design, New AI Architectures.
 
