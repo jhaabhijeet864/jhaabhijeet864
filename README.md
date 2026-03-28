@@ -39,8 +39,15 @@ I enjoy transforming complex AI concepts into accessible tools and applications 
 <br/>
 
 <div align="center">
-  <h2>🏆 Achievements & Experience</h2>
+  <h2>👾 Contributions and Insights</h2>
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Achievements" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhaabhijeet864&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888" width="80%" />
+  <br>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=jhaabhijeet864&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" />
+  <br>
+  
 </div>
 
 <br/>
