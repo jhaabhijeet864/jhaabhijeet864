@@ -44,20 +44,3 @@ I enjoy transforming complex AI concepts into accessible tools and applications 
 </div>
 
 <br/>
-
-## 📊 GitHub Stats & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhaabhijeet864&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhaabhijeet864&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhaabhijeet864&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhaabhijeet864&theme=tokyonight" width="48%" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" alt="Footer GIF" />
-  <p><i>Thanks for visiting my profile! Let's build something amazing together.</i></p>
-</div>
