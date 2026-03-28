@@ -57,14 +57,6 @@ I enjoy transforming complex AI concepts into accessible tools and applications 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhaabhijeet864&theme=tokyonight" width="48%" alt="Contribution Graph" />
 </div>
 
-<br/>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jhaabhijeet864&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" alt="Footer GIF" />
   <p><i>Thanks for visiting my profile! Let's build something amazing together.</i></p>
