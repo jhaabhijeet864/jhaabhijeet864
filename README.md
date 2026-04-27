@@ -59,23 +59,12 @@ I enjoy transforming complex AI concepts into accessible tools and applications 
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/jhaabhijeet864/Hardware_Infernece_Engine_For_GPU">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhaabhijeet864&repo=Hardware_Infernece_Engine_For_GPU&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/jhaabhijeet864/Self_Improving_Agentic_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhaabhijeet864&repo=Self_Improving_Agentic_System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/jhaabhijeet864/My_Kanha_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhaabhijeet864&repo=My_Kanha_Project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/jhaabhijeet864/wake_bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhaabhijeet864&repo=wake_bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff" />
-  </a>
-</div>
+| Project | Description | Link |
+|---|---|---|
+| 🚀 **[Hardware_Infernece_Engine_For_GPU](https://github.com/jhaabhijeet864/Hardware_Infernece_Engine_For_GPU)** | Hi, Consumers this is a "Full-Stack Application" for All GPU - LLM Computer and Memory Requirement Calculator. | [View Repository](https://github.com/jhaabhijeet864/Hardware_Infernece_Engine_For_GPU) |
+| 🚀 **[Self_Improving_Agentic_System](https://github.com/jhaabhijeet864/Self_Improving_Agentic_System)** | It's the Git of My Linux! | [View Repository](https://github.com/jhaabhijeet864/Self_Improving_Agentic_System) |
+| 🚀 **[My_Kanha_Project](https://github.com/jhaabhijeet864/My_Kanha_Project)** | It's an embodiment of Kanha (Krishna), in your mobile applications, to gain knopwledge about Gita, and talk directly to the image of Kanha himself. | [View Repository](https://github.com/jhaabhijeet864/My_Kanha_Project) |
+| 🚀 **[wake_bot](https://github.com/jhaabhijeet864/wake_bot)** | a complex, multithreaded Python Windows application that is like an autonomous startup buddy for your system | [View Repository](https://github.com/jhaabhijeet864/wake_bot) |
 
 ---
 
