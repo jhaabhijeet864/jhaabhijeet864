@@ -61,10 +61,10 @@ I enjoy transforming complex AI concepts into accessible tools and applications 
 
 | Project | Description | Link |
 |---|---|---|
-| 🚀 **[Hardware_Infernece_Engine_For_GPU](https://github.com/jhaabhijeet864/Hardware_Infernece_Engine_For_GPU)** | Hi, Consumers this is a "Full-Stack Application" for All GPU - LLM Computer and Memory Requirement Calculator. | [View Repository](https://github.com/jhaabhijeet864/Hardware_Infernece_Engine_For_GPU) |
-| 🚀 **[Self_Improving_Agentic_System](https://github.com/jhaabhijeet864/Self_Improving_Agentic_System)** | It's the Git of My Linux! | [View Repository](https://github.com/jhaabhijeet864/Self_Improving_Agentic_System) |
-| 🚀 **[My_Kanha_Project](https://github.com/jhaabhijeet864/My_Kanha_Project)** | It's an embodiment of Kanha (Krishna), in your mobile applications, to gain knopwledge about Gita, and talk directly to the image of Kanha himself. | [View Repository](https://github.com/jhaabhijeet864/My_Kanha_Project) |
-| 🚀 **[wake_bot](https://github.com/jhaabhijeet864/wake_bot)** | a complex, multithreaded Python Windows application that is like an autonomous startup buddy for your system | [View Repository](https://github.com/jhaabhijeet864/wake_bot) |
+|  **[Hardware_Infernece_Engine_For_GPU](https://github.com/jhaabhijeet864/Hardware_Infernece_Engine_For_GPU)** | Hi, Consumers this is a "Full-Stack Application" for All GPU - LLM Computer and Memory Requirement Calculator. | [View Repository](https://github.com/jhaabhijeet864/Hardware_Infernece_Engine_For_GPU) |
+|  **[Self_Improving_Agentic_System](https://github.com/jhaabhijeet864/Self_Improving_Agentic_System)** | It's the Git of My Linux! | [View Repository](https://github.com/jhaabhijeet864/Self_Improving_Agentic_System) |
+|  **[My_Kanha_Project](https://github.com/jhaabhijeet864/My_Kanha_Project)** | It's an embodiment of Kanha (Krishna), in your mobile applications, to gain knopwledge about Gita, and talk directly to the image of Kanha himself. | [View Repository](https://github.com/jhaabhijeet864/My_Kanha_Project) |
+|  **[wake_bot](https://github.com/jhaabhijeet864/wake_bot)** | a complex, multithreaded Python Windows application that is like an autonomous startup buddy for your system | [View Repository](https://github.com/jhaabhijeet864/wake_bot) |
 
 ---
 
