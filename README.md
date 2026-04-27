@@ -59,15 +59,12 @@ I enjoy transforming complex AI concepts into accessible tools and applications 
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/jhaabhijeet864/CompliCopilot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhaabhijeet864&repo=CompliCopilot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/jhaabhijeet864/Jarvis-CLI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhaabhijeet864&repo=Jarvis-CLI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff" />
-  </a>
-</div>
+| Project | Description | Link |
+|---|---|---|
+|  **[Hardware_Infernece_Engine_For_GPU](https://github.com/jhaabhijeet864/Hardware_Infernece_Engine_For_GPU)** | Hi, Consumers this is a "Full-Stack Application" for All GPU - LLM Computer and Memory Requirement Calculator. | [View Repository](https://github.com/jhaabhijeet864/Hardware_Infernece_Engine_For_GPU) |
+|  **[Self_Improving_Agentic_System](https://github.com/jhaabhijeet864/Self_Improving_Agentic_System)** | It's the Git of My Linux! | [View Repository](https://github.com/jhaabhijeet864/Self_Improving_Agentic_System) |
+|  **[My_Kanha_Project](https://github.com/jhaabhijeet864/My_Kanha_Project)** | It's an embodiment of Kanha (Krishna), in your mobile applications, to gain knopwledge about Gita, and talk directly to the image of Kanha himself. | [View Repository](https://github.com/jhaabhijeet864/My_Kanha_Project) |
+|  **[wake_bot](https://github.com/jhaabhijeet864/wake_bot)** | a complex, multithreaded Python Windows application that is like an autonomous startup buddy for your system | [View Repository](https://github.com/jhaabhijeet864/wake_bot) |
 
 ---
 
@@ -76,13 +73,27 @@ I enjoy transforming complex AI concepts into accessible tools and applications 
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhaabhijeet864&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jhaabhijeet864&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff&count_private=true" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhaabhijeet864&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=6" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhaabhijeet864&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ SNAKE GAME ═══════════════════════ -->
+
+## 🐍 Contribution Grid Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhaabhijeet864/jhaabhijeet864/output/github-contribution-grid-snake-dark.svg?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhaabhijeet864/jhaabhijeet864/output/github-contribution-grid-snake.svg?v=1" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/jhaabhijeet864/jhaabhijeet864/output/github-contribution-grid-snake-dark.svg?v=1" width="100%" />
+  </picture>
 </div>
 
 ---
