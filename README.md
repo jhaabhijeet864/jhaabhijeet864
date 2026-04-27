@@ -1,17 +1,31 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&height=60&lines=Hello%2C+I'm+Abhijeet+Jha!;AI+%26+ML+Engineer;Data+Scientist" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhijeetcreates/)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:jhaabhijeet864@gmail.com)
-  [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--7391--6631-green?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0004-7391-6631)
-  [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/abhijeetcreates)
-  
-</div>
+<!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=220&section=header&text=Abhijeet%20Jha&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Data%20Scientist&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+
+<!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=💼+Entrepreneur;🤝+Co-founder;🌟+I'm+Doing+it+All" alt="Typing SVG" />
+</a>
 
 <br/>
+
+<!-- ═══════════════════════ BADGES ═══════════════════════ -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/abhijeetcreates/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff" /></a>
+  &nbsp;
+  <a href="mailto:jhaabhijeet864@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00d4ff" /></a>
+  &nbsp;
+  <a href="https://orcid.org/0009-0004-7391-6631"><img src="https://img.shields.io/badge/ORCID-0d1117?style=for-the-badge&logo=orcid&logoColor=00d4ff" /></a>
+  &nbsp;
+  <a href="https://instagram.com/abhijeetcreates"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00d4ff" /></a>
+</div>
+
+</div>
+
+---
+
+<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
 ## 🧠 About Me
 
@@ -21,33 +35,66 @@ I'm a **passionate AI & Machine Learning Engineer** with expertise in LLM system
 - 💼 Co Founder and Chief AIML Engineer **[@Pathixo Pvt. Ltd](https://www.pathixo.com/)**.
 - 🎓 Background in Computer Science with specialization in AI, Machine Learning, and Data Science.
 - 🔍 Research interests include: Agentic Ecosystems, System Design, New AI Architectures.
+- 🎯 Active in the open-source community and aiming to build amazing developer tools.
 
 I enjoy transforming complex AI concepts into accessible tools and applications that enhance user experiences and automate processes. My goal is to make AI technology more accessible and beneficial for everyday use.
 
-<br/>
+---
+
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
 ## 💻 Tech Stack & Tools
 
 | Category | Technologies |
 |---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
-| **Frameworks** | ![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white) |
-| **AI/ML** | ![Hugging Face](https://img.shields.io/badge/HUGGING_FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LANGCHAIN-3178C6?style=for-the-badge) ![LangGraph](https://img.shields.io/badge/LANGGRAPH-8A2BE2?style=for-the-badge) ![Gemini](https://img.shields.io/badge/GEMINI-1A73E8?style=for-the-badge&logo=google&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MONGODB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| **DevOps** | ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff) ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00d4ff) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00d4ff) ![CSS](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=00d4ff) ![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00d4ff) |
+| **Frameworks** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00d4ff) ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=00d4ff) ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=00d4ff) ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00d4ff) ![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=00d4ff) |
+| **AI/ML** | ![Hugging Face](https://img.shields.io/badge/Hugging_Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=00d4ff) ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=00d4ff) ![Gemini](https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=google&logoColor=00d4ff) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00d4ff) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00d4ff) ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00d4ff) |
+| **DevOps** | ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00d4ff) ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00d4ff) ![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=00d4ff) |
 
-<br/>
+---
+
+<!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
+
+## 🚀 Featured Projects
 
 <div align="center">
-  <h2>👾 Contributions and Insights</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Achievements" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhaabhijeet864&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888" width="80%" />
-  <br>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=jhaabhijeet864&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" />
-  <br>
-  
+  <a href="https://github.com/jhaabhijeet864/CompliCopilot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhaabhijeet864&repo=CompliCopilot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/jhaabhijeet864/Jarvis-CLI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhaabhijeet864&repo=Jarvis-CLI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff" />
+  </a>
 </div>
 
-<br/>
+---
+
+<!-- ═══════════════════════ STATS & CONTRIBUTIONS ═══════════════════════ -->
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jhaabhijeet864&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff&include_all_commits=true&count_private=true" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhaabhijeet864&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=6" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhaabhijeet864&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888" />
+</div>
+
+---
+
+<!-- ═══════════════════════ FOOTER ANIMATION ═══════════════════════ -->
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jhaabhijeet864&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" />
+  <br/><br/>
+  <i>Thanks for visiting my profile! Let's build something amazing together.</i>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:0d1117&height=120&section=footer" width="100%" />
+</div>
