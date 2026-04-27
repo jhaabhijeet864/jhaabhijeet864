@@ -90,9 +90,9 @@ I enjoy transforming complex AI concepts into accessible tools and applications 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhaabhijeet864/jhaabhijeet864/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhaabhijeet864/jhaabhijeet864/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/jhaabhijeet864/jhaabhijeet864/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhaabhijeet864/jhaabhijeet864/output/github-contribution-grid-snake-dark.svg?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhaabhijeet864/jhaabhijeet864/output/github-contribution-grid-snake.svg?v=1" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/jhaabhijeet864/jhaabhijeet864/output/github-contribution-grid-snake-dark.svg?v=1" width="100%" />
   </picture>
 </div>
 
