@@ -60,12 +60,20 @@ I enjoy transforming complex AI concepts into accessible tools and applications 
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/jhaabhijeet864/CompliCopilot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhaabhijeet864&repo=CompliCopilot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff" />
+  <a href="https://github.com/jhaabhijeet864/Hardware_Infernece_Engine_For_GPU">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhaabhijeet864&repo=Hardware_Infernece_Engine_For_GPU&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/jhaabhijeet864/Jarvis-CLI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhaabhijeet864&repo=Jarvis-CLI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff" />
+  <a href="https://github.com/jhaabhijeet864/Self_Improving_Agentic_System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhaabhijeet864&repo=Self_Improving_Agentic_System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/jhaabhijeet864/My_Kanha_Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhaabhijeet864&repo=My_Kanha_Project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/jhaabhijeet864/wake_bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhaabhijeet864&repo=wake_bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff" />
   </a>
 </div>
 
@@ -76,13 +84,27 @@ I enjoy transforming complex AI concepts into accessible tools and applications 
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhaabhijeet864&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jhaabhijeet864&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff&count_private=true" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhaabhijeet864&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=6" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhaabhijeet864&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ SNAKE GAME ═══════════════════════ -->
+
+## 🐍 Contribution Grid Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhaabhijeet864/jhaabhijeet864/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhaabhijeet864/jhaabhijeet864/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/jhaabhijeet864/jhaabhijeet864/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 ---
