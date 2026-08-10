@@ -29,4 +29,5 @@ for repo in repos:
         print(f"Error fetching {repo}: {e}")
         table += f"| 🚀 **[{repo}](https://github.com/jhaabhijeet864/{repo})** | Open Source Project | [View Repository](https://github.com/jhaabhijeet864/{repo}) |\n"
 
-print(table)
+with open("repos.md", "w", encoding="utf-8") as f:
+    f.write(table)

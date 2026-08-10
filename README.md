@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=220&section=header&text=Abhijeet%20Jha&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Data%20Scientist&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
-<a href="https://git.io/typing-svg">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=💼+Entrepreneur;🤝+Co-founder;🌟+I'm+Doing+it+All" alt="Typing SVG" />
 </a>
 
@@ -61,10 +61,10 @@ I enjoy transforming complex AI concepts into accessible tools and applications 
 
 | Project | Description | Link |
 |---|---|---|
-|  **[Hardware_Infernece_Engine_For_GPU](https://github.com/jhaabhijeet864/Hardware_Infernece_Engine_For_GPU)** | Hi, Consumers this is a "Full-Stack Application" for All GPU - LLM Computer and Memory Requirement Calculator. | [View Repository](https://github.com/jhaabhijeet864/Hardware_Infernece_Engine_For_GPU) |
-|  **[Self_Improving_Agentic_System](https://github.com/jhaabhijeet864/Self_Improving_Agentic_System)** | It's the Git of My Linux! | [View Repository](https://github.com/jhaabhijeet864/Self_Improving_Agentic_System) |
-|  **[My_Kanha_Project](https://github.com/jhaabhijeet864/My_Kanha_Project)** | It's an embodiment of Kanha (Krishna), in your mobile applications, to gain knopwledge about Gita, and talk directly to the image of Kanha himself. | [View Repository](https://github.com/jhaabhijeet864/My_Kanha_Project) |
-|  **[wake_bot](https://github.com/jhaabhijeet864/wake_bot)** | a complex, multithreaded Python Windows application that is like an autonomous startup buddy for your system | [View Repository](https://github.com/jhaabhijeet864/wake_bot) |
+| 🚀 **[Hardware_Infernece_Engine_For_GPU](https://github.com/jhaabhijeet864/Hardware_Infernece_Engine_For_GPU)** | Hi, Consumers this is a "Full-Stack Application" for All GPU - LLM Computer and Memory Requirement Calculator. | [View Repository](https://github.com/jhaabhijeet864/Hardware_Infernece_Engine_For_GPU) |
+| 🚀 **[Self_Improving_Agentic_System](https://github.com/jhaabhijeet864/Self_Improving_Agentic_System)** | It's the Git of My Linux! | [View Repository](https://github.com/jhaabhijeet864/Self_Improving_Agentic_System) |
+| 🚀 **[My_Kanha_Project](https://github.com/jhaabhijeet864/My_Kanha_Project)** | It's an embodiment of Kanha (Krishna), in your mobile applications, to gain knopwledge about Gita, and talk directly to the image of Kanha himself. | [View Repository](https://github.com/jhaabhijeet864/My_Kanha_Project) |
+| 🚀 **[wake_bot](https://github.com/jhaabhijeet864/wake_bot)** | a complex, multithreaded Python Windows application that is like an autonomous startup buddy for your system | [View Repository](https://github.com/jhaabhijeet864/wake_bot) |
 
 ---
 
@@ -73,9 +73,9 @@ I enjoy transforming complex AI concepts into accessible tools and applications 
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhaabhijeet864&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff&count_private=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jhaabhijeet864&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff&count_private=true" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhaabhijeet864&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=6" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhaabhijeet864&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=6" />
 </div>
 
 <div align="center">
