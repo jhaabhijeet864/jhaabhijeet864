@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=220&section=header&text=Abhijeet%20Jha&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Data%20Scientist&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+<!-- ═══════════════════════ ASCII ART HEADER ═══════════════════════ -->
+<img src="ascii-art.png" width="100%" alt="Abhijeet's ASCII Art" />
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
