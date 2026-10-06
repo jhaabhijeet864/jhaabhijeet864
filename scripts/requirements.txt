@@ -1,0 +1,8 @@
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# Optional: portrait photo preparation (local use only, not required in daily CI):
+# pillow
+# numpy
+# opencv-python
+# rembg

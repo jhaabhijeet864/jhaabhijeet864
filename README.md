@@ -1,14 +1,39 @@
 <div align="center">
 
-<!-- ═══════════════════════ ASCII ART HEADER ═══════════════════════ -->
-<img src="ascii-art.png" width="100%" alt="Abhijeet's ASCII Art" />
-
-<!-- ═══════════════════════ HEADER ANIMATION ═══════════════════════ -->
-<img src="subheader.svg" width="100%" alt="Subheader" />
+<!-- ═══════════════════════ SUBHEADER ANIMATION ═══════════════════════ -->
+<img src="./subheader.svg" width="100%" alt="Abhijeet Jha — Subheader" />
 
 <br/>
 
-<!-- ═══════════════════════ BADGES ═══════════════════════ -->
+<!-- ═══════════════════════ LIVE CONTRIBUTION HEATMAP ═══════════════════════ -->
+<!-- Animated contribution graph: real data scraped with zero token, reveals diagonally cell by cell
+     (Regenerated daily by .github/workflows/update-profile-art.yml) -->
+<h3><code>jhaabhijeet864@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Abhijeet's GitHub contribution graph — auto-refreshed daily" />
+
+<br/>
+<br/>
+
+<!-- ═══════════════════════ ASCII PORTRAIT + STATS CARD ═══════════════════════ -->
+<!-- Left: Self-typing SMIL ASCII portrait with riding cursor (840x880)
+     Right: Live streak, count-up stats, and monthly activity bar chart (840x880)
+     Both SVGs share equal 840x880 geometry for seamless side-by-side alignment -->
+<h3><code>jhaabhijeet864@github ~ $ whoami</code></h3>
+
+<table>
+  <tr>
+    <td valign="top"><img src="./ascii.svg" width="420" alt="Abhijeet Jha — Animated ASCII Portrait" /></td>
+    <td valign="top"><img src="./stats.svg" width="420" alt="Abhijeet Jha — Streak & Activity Stats" /></td>
+  </tr>
+</table>
+
+<br/>
+<br/>
+
+<!-- ═══════════════════════ QUICK CONNECT BADGES ═══════════════════════ -->
+<h3><code>jhaabhijeet864@github ~ $ ./connect.sh</code></h3>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/abhijeetcreates/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzU4YTZmZiI%2BPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02LjQ2IDEwLjl2OC4zN0g5LjJWMTAuOUg2LjQ2TTcuODMgNi40NWExLjY0IDEuNjQgMCAxIDAgMCAzLjI4IDEuNjQgMS42NCAwIDAgMCAwLTMuMjgiLz48L3N2Zz4%3D" /></a>
   &nbsp;
@@ -21,11 +46,13 @@
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+<!-- ═══════════════════════ ABOUT ME / BIO ═══════════════════════ -->
 
-## Wanna know, Who I am ?
+### <code>jhaabhijeet864@github ~ $ cat bio.md</code>
 
 AI & Machine Learning Engineer specializing in LLM systems, autonomous agent architectures, and high-performance ML infrastructure.
 
@@ -40,7 +67,7 @@ Driven by transforming frontier AI research into scalable developer tools and pr
 
 <!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
 
-## Best of My Work
+### <code>jhaabhijeet864@github ~ $ ./projects.sh --starred</code>
 
 | Project | Focus | Description | Links |
 |:---|:---|:---|:---:|
@@ -52,25 +79,9 @@ Driven by transforming frontier AI research into scalable developer tools and pr
 
 ---
 
-<!-- ═══════════════════════ STATS & CONTRIBUTIONS ═══════════════════════ -->
+<!-- ═══════════════════════ PET SNAKE GAME ═══════════════════════ -->
 
-## GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jhaabhijeet864&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&count_private=true" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhaabhijeet864&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=jhaabhijeet864&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=c9d1d9&dates=888888" />
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ SNAKE GAME ═══════════════════════ -->
-
-## My Pet Snake
+### <code>jhaabhijeet864@github ~ $ ./snake.sh</code>
 
 <div align="center">
   <picture>
@@ -84,7 +95,7 @@ Driven by transforming frontier AI research into scalable developer tools and pr
 
 <!-- ═══════════════════════ ORGANIZATIONS & ECOSYSTEM ═══════════════════════ -->
 
-## Organizations & Ecosystems
+### <code>jhaabhijeet864@github ~ $ ./ecosystem.sh</code>
 
 <div align="center">
   <a href="https://www.pathixo.com/"><img src="https://img.shields.io/badge/Pathixo-161b22?style=for-the-badge&logo=target&logoColor=58a6ff" /></a>

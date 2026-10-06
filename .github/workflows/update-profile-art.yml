@@ -1,0 +1,47 @@
+name: Update profile art
+
+# Refreshes the contribution graph + stats card SVGs daily from real GitHub data.
+# Runs daily on schedule, on manual dispatch, and on code pushes.
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # ~06:17 UTC every day
+  workflow_dispatch: {}
+  push:
+    branches: [master, main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/update-profile-art.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-art:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Scrape real contribution data (zero token required)
+        run: python scripts/fetch_contributions.py
+        env:
+          GH_PROFILE_USER: jhaabhijeet864
+
+      - name: Render animated contribution heatmap SVG
+        run: python scripts/render_heatmap_svg.py
+
+      - name: Render streak and stats card SVG
+        run: python scripts/render_stats_svg.py
+
+      - name: Commit updated art
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh contribution graph and stats [skip ci]"
+          file_pattern: "data/contributions.json contrib-heatmap.svg stats.svg"
