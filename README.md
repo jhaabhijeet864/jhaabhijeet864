@@ -65,20 +65,6 @@ Driven by transforming frontier AI research into scalable developer tools and pr
 
 ---
 
-<!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
-
-### <code>jhaabhijeet864@github ~ $ ./projects.sh --starred</code>
-
-| Project | Focus | Description | Links |
-|:---|:---|:---|:---:|
-| **KrocPDF** | `Document AI` `OCR Engine` | High-performance document processing and intelligence engine for complex PDF pipelines. | [Repository](https://github.com/jhaabhijeet864) |
-| **Hardware Inference Engine for GPU** | `GPU Compute` `LLM Systems` | Full-stack memory & compute requirement calculator and inference architect for LLMs across modern GPU architectures. | [Repository](https://github.com/jhaabhijeet864/Hardware_Infernece_Engine_For_GPU) |
-| **Self-Improving Agentic System** | `Autonomous Agents` `Orchestration` | Recursive, self-optimizing agentic execution framework designed for multi-step reasoning and automated tooling. | [Repository](https://github.com/jhaabhijeet864/Self_Improving_Agentic_System) |
-| **My Kanha Project** | `Conversational AI` `Mobile` | Interactive spiritual intelligence assistant and conversational avatar bringing Gita wisdom to mobile applications. | [Repository](https://github.com/jhaabhijeet864/My_Kanha_Project) |
-| **Wake Bot** | `Automation` `Systems` | Multithreaded autonomous environment orchestrator and desktop companion for automated startup workflows. | [Repository](https://github.com/jhaabhijeet864/wake_bot) |
-
----
-
 <!-- ═══════════════════════ PET SNAKE GAME ═══════════════════════ -->
 
 ### <code>jhaabhijeet864@github ~ $ ./snake.sh</code>
