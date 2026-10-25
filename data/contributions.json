@@ -1,22 +1,22 @@
 {
   "username": "jhaabhijeet864",
-  "updated_at": "2026-10-24T10:58:24.306745+00:00",
-  "total_contributions": 2600,
-  "active_days": 261,
-  "avg_per_active_day": 10.0,
+  "updated_at": "2026-10-25T11:26:57.291861+00:00",
+  "total_contributions": 2654,
+  "active_days": 262,
+  "avg_per_active_day": 10.1,
   "range": {
-    "start": "2025-10-19",
-    "end": "2026-10-24"
+    "start": "2025-10-26",
+    "end": "2026-10-25"
   },
   "current_streak": {
-    "length": 194,
+    "length": 195,
     "start": "2026-04-14",
-    "end": "2026-10-24"
+    "end": "2026-10-25"
   },
   "longest_streak": {
-    "length": 194,
+    "length": 195,
     "start": "2026-04-14",
-    "end": "2026-10-24"
+    "end": "2026-10-25"
   },
   "best_day": {
     "date": "2026-09-19",
@@ -74,45 +74,10 @@
     },
     {
       "month": "2026-10",
-      "total": 392
+      "total": 446
     }
   ],
   "days": [
-    {
-      "date": "2025-10-19",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-20",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-21",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-22",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-23",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-24",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-25",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-10-26",
       "count": 0,
@@ -1930,8 +1895,13 @@
     },
     {
       "date": "2026-10-24",
-      "count": 2,
-      "level": 1
+      "count": 20,
+      "level": 2
+    },
+    {
+      "date": "2026-10-25",
+      "count": 36,
+      "level": 4
     }
   ]
 }
